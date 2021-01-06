@@ -1,0 +1,2 @@
+# Analyzing-Open-University-Learning-Analytics-Dataset
+ Developed to identify at-risk students on a huge Open University Learning Analytics Dataset (OULAD) using different user patterns and filtering techniques using Python. Used Association rule to determine relationships in unrelated data. K-Means Clustering is employed to determine groups of users using Weka V-3.8.2 and bring insights on the data.
